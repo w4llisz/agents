@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 密钥与本地配置，绝不提交
+.env
+.env.*
+
+# macOS
+.DS_Store
